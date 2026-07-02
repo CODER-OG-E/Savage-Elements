@@ -10,9 +10,15 @@ Players take on the role of the **Global Sustainability Architect**, travelling 
 - 🇯🇵 Japan — SDG 4 & 9
 - 🇳🇱 Netherlands — SDG 12 & 13
 
-## Built With
-- Unity
-- C#
-- Blender
-- Visual Studio Code
-- Git & GitHub
+## 🛠 Built With
+| Software | Purpose |
+|----------|---------|
+| Unity 6 | Game Engine |
+| C# | Game Programming |
+| Visual Studio Code | Code Editor |
+| Blender | 3D Modelling & Asset Creation |
+| Git | Version Control |
+| GitHub | Source Code Management & Project Tracking |
+| Unity Input System | Camera & Player Controls |
+| TextMesh Pro | User Interface Text |
+| Unity UI Toolkit / Canvas | User Interface |
