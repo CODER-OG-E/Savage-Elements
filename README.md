@@ -19,6 +19,3 @@ Players take on the role of the **Global Sustainability Architect**, travelling 
 | Blender | 3D Modelling & Asset Creation |
 | Git | Version Control |
 | GitHub | Source Code Management & Project Tracking |
-| Unity Input System | Camera & Player Controls |
-| TextMesh Pro | User Interface Text |
-| Unity UI Toolkit / Canvas | User Interface |
